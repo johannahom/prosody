@@ -1,3 +1,14 @@
+# Johannah's instructions
+
+```bash
+source /disk/scratch/s2132904/miniconda/bin/activate 
+conda create --name sequence_labelling python=3.7
+```
+
+
+
+
+
 # Predicting Prosodic Prominence from Text with Pre-Trained Contextualized Word Representations
 
 **Update 30 October 2019:**
